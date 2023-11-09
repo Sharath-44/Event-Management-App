@@ -63,7 +63,7 @@
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
 
-                <data android:scheme="appwrite-callback-64b4fc61e5f4aa023618" />
+                <data android:scheme="appwrite-callback-652e1f155f017c9f55a2" />
             </intent-filter>
         </activity>
         <!--

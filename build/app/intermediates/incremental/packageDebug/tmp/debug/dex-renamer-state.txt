@@ -1,4 +1,4 @@
-#Tue Oct 17 19:46:54 IST 2023
+#Tue Oct 17 23:23:05 IST 2023
 base.0=C\:\\Users\\Sharath M S\\Desktop\\Flutter\\event_management_app-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

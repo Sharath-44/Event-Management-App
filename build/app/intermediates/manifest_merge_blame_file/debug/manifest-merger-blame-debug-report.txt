@@ -74,7 +74,7 @@
 63                <category android:name="android.intent.category.DEFAULT" />
 64                <category android:name="android.intent.category.BROWSABLE" />
 65
-66                <data android:scheme="appwrite-callback-64b4fc61e5f4aa023618" />
+66                <data android:scheme="appwrite-callback-652e1f155f017c9f55a2" />
 66-->[:file_picker] C:\Users\Sharath M S\Desktop\Flutter\event_management_app-main\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-44
 67            </intent-filter>
 68        </activity>
