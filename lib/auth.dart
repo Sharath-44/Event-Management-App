@@ -8,7 +8,9 @@ Client client = Client()
     .setSelfSigned(status: true); // For self signed certificates, only use for development
 
 Account account = Account(client);
+
 // Register User
+
 Future<String> createUser(String name, String email, String password) async {
   try {
     final user = await account.create(
@@ -35,6 +37,7 @@ Future loginUser(String email, String password) async {
 }
 
 // Logout the user
+
 Future logoutUser() async {
   await account.deleteSession(sessionId: 'current');
 }

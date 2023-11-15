@@ -1,19 +1,12 @@
 import 'package:appwrite/models.dart';
 import 'package:carousel_slider/carousel_slider.dart';
-
-import 'package:event_management_app/auth.dart';
 import 'package:event_management_app/constants/colors.dart';
 import 'package:event_management_app/containers/event_container.dart';
-
 import 'package:event_management_app/database.dart';
 import 'package:event_management_app/saved_data.dart';
-
 import 'package:event_management_app/views/create_event_page.dart';
-import 'package:event_management_app/views/event_details.dart';
-import 'package:event_management_app/views/login.dart';
 import 'package:event_management_app/views/popular_item.dart';
 import 'package:event_management_app/views/profile_page.dart';
-
 import 'package:flutter/material.dart';
 
 class Homepage extends StatefulWidget {
